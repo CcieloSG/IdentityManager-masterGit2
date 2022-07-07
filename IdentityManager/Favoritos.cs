@@ -9,7 +9,7 @@
 	<h2>Mis Plantas favoritas</h2>
 	<form id="formulario1" name="formulario1" method="post" action="data.php">
 	<h3>Selecciona tus plantas foritas</h3>
-		<select name="peliculas" id="peliculas" multiple="multiple" size="9">	
+		<select name="favoritos" id="faboritos" multiple="multiple" size="15">	
 			<option value="1">Rosales</option>
 			<option value="2" disabled="disabled">Suculentas</option>
 			<option value="3">Arbustos</option>
