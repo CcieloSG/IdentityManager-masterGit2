@@ -17,19 +17,21 @@
         <input type="id" name="nombre" value="7">Plantas acuaticas<br>
 
         <h3>Provedor de abono y fertilizante</h3>
-		<input type="id" name="nombre" value="1">Abono universal<br>
-        <input type="id" name="nombre" value="2">Abonopara rosales<br>
-        <input type="id" name="nombre" value="3">Abono organico<br>
-        <input type="id" name="nombre" value="4">Abono minerales<br>
-        <input type="id" name="nombre" value="5">Abono para plantasverdes<br>
-        <input type="id" name="nombre" value="6">Abono para citricos<br>
-        <input type="id" name="nombre" value="7">Fertilizantes organicos<br>
-        <input type="id" name="nombre" value="1">Fertilizantes quimico<br>
-        <input type="id" name="nombre" value="1">Biofertilizante<br>
+		<input type="id" name="nombre" value="8">Abono universal<br>
+        <input type="id" name="nombre" value="9">Abonopara rosales<br>
+        <input type="id" name="nombre" value="10">Abono organico<br>
+        <input type="id" name="nombre" value="11">Abono minerales<br>
+        <input type="id" name="nombre" value="12">Abono para plantasverdes<br>
+        <input type="id" name="nombre" value="13">Abono para citricos<br>
+        <input type="id" name="nombre" value="14">Fertilizantes organicos<br>
+        <input type="id" name="nombre" value="15">Fertilizantes quimico<br>
+        <input type="id" name="nombre" value="16">Biofertilizante<br>
 
         <h3>Provedor de tierra</h3>
-		<input type="id" name="nombre" value="1">Tierra lama<br>
-        <input type="id" name="nombre" value="1">Tierra con hojarasca<br>
+		<input type="id" name="nombre" value="17">Tierra lama<br>
+        <input type="id" name="nombre" value="18">Tierra con hojarasca<br>
+        <input type="id" name="nombre" value="19">Tierra negra<br>
+        <input type="id" name="nombre" value="18">Sustrato de tierra para macetas<br>
 	</form>
 </div>	
 </body>
