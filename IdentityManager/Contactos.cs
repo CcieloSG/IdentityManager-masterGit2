@@ -32,6 +32,7 @@
         <input type="id" name="nombre" value="18">Tierra con hojarasca<br>
         <input type="id" name="nombre" value="19">Tierra negra<br>
         <input type="id" name="nombre" value="18">Sustrato de tierra para macetas<br>
+        <input type="id" name="nombre" value="19">Tierra organica<br>
 	</form>
 </div>	
 </body>
