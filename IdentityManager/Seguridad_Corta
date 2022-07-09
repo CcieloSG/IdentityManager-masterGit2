@@ -1,0 +1,13 @@
+<?php
+// Add the CAPTCHA field to the form model
+$this->add([
+  'type'  => 'captcha',
+  'name' => 'captcha',
+  'options' => [
+    'label' => 'Human check',
+    'captcha' => [
+      'class' => '<captcha_class_name>', //
+      // Certain-class-specific options follow here ...
+    ],
+  ],
+]);
