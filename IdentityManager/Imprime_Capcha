@@ -1,0 +1,6 @@
+<div class="form-group">
+  <?= $this->formLabel($form->get('captcha')); ?>
+  <?= $this->formElement($form->get('captcha')); ?>
+  <?= $this->formElementErrors($form->get('captcha')); ?>
+  <p class="help-block">Enter the letters above as you see them.</p>
+</div>
